@@ -1,0 +1,12 @@
+names:
+- Stupid
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: idk-wlpy5
+  url: https://universe.roboflow.com/himm/idk-wlpy5/dataset/2
+  version: 2
+  workspace: himm
+test: /content/drive/MyDrive/idk-2/test/images
+train: /content/drive/MyDrive/idk-2/train/images
+val: /content/drive/MyDrive/idk-2/valid/images
